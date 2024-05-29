@@ -25,7 +25,6 @@ GET /integrantes: Presenta la información de todos los integrantes del grupo.
 GET /integrantes/:id: Presenta la información de un integrante del grupo especificado por ID.
 GET /products: Presenta un HTML con algunos productos.
 
-
 # Dependencias
 express: Framework web para Node.js.
 uuid: Biblioteca para generar identificadores únicos.
